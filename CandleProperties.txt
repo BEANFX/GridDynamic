@@ -1,0 +1,14 @@
+
+Background:	17,26,41
+Foreground:	White
+Grid:	241,236,242
+Bar up:	96,203,123
+Bar down:	246,63,61
+Bull candle:	96,203,123
+Bear candle:	246,63,61
+Line chart:	MediumSlateBlue
+Volumes:	38,166,154
+Bid price line:	38,166,154
+Ask price line:	246,63,61
+Last price line:	156,186,240
+Stop levels:	246,63,61
